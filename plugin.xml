@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>FontEncrypt</name>
+<type>edit</type>
+<author>RUD</author>
+<description>字体混淆</description>
+<engine>python3.4</engine>
+<version>3.6.0</version>
+<oslist>win,unx,osx</oslist>
+<autostart>true</autostart>
+<autoclose>true</autoclose>
+</plugin>
